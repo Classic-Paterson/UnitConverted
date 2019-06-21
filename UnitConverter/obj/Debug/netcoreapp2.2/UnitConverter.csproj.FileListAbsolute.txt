@@ -1,0 +1,11 @@
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverter\bin\Debug\netcoreapp2.2\UnitConverter.deps.json
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverter\bin\Debug\netcoreapp2.2\UnitConverter.runtimeconfig.json
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverter\bin\Debug\netcoreapp2.2\UnitConverter.runtimeconfig.dev.json
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverter\bin\Debug\netcoreapp2.2\UnitConverter.dll
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverter\bin\Debug\netcoreapp2.2\UnitConverter.pdb
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverter\obj\Debug\netcoreapp2.2\UnitConverter.csprojAssemblyReference.cache
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverter\obj\Debug\netcoreapp2.2\UnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverter\obj\Debug\netcoreapp2.2\UnitConverter.AssemblyInfoInputs.cache
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverter\obj\Debug\netcoreapp2.2\UnitConverter.AssemblyInfo.cs
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverter\obj\Debug\netcoreapp2.2\UnitConverter.dll
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverter\obj\Debug\netcoreapp2.2\UnitConverter.pdb

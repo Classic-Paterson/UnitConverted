@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\patersonr\\source\\repos\\UnitConverter\\UnitConverterTests\\UnitConverterTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\patersonr\\source\\repos\\UnitConverter\\UnitConverterTests\\UnitConverterTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\patersonr\\source\\repos\\UnitConverter\\UnitConverterTests\\UnitConverterTests.csproj",
+        "projectName": "UnitConverterTests",
+        "projectPath": "C:\\Users\\patersonr\\source\\repos\\UnitConverter\\UnitConverterTests\\UnitConverterTests.csproj",
+        "packagesPath": "C:\\Users\\patersonr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\patersonr\\source\\repos\\UnitConverter\\UnitConverterTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\patersonr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\patersonr\\source\\repos\\UnitConverter\\UnitConverter\\UnitConverter.csproj": {
+                "projectPath": "C:\\Users\\patersonr\\source\\repos\\UnitConverter\\UnitConverter\\UnitConverter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\patersonr\\source\\repos\\UnitConverter\\UnitConverter\\UnitConverter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\patersonr\\source\\repos\\UnitConverter\\UnitConverter\\UnitConverter.csproj",
+        "projectName": "UnitConverter",
+        "projectPath": "C:\\Users\\patersonr\\source\\repos\\UnitConverter\\UnitConverter\\UnitConverter.csproj",
+        "packagesPath": "C:\\Users\\patersonr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\patersonr\\source\\repos\\UnitConverter\\UnitConverter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\patersonr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

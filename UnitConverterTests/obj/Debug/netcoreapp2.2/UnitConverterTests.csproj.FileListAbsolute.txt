@@ -1,0 +1,17 @@
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverterTests\obj\Debug\netcoreapp2.2\UnitConverterTests.csprojAssemblyReference.cache
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverterTests\obj\Debug\netcoreapp2.2\UnitConverterTests.csproj.CoreCompileInputs.cache
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverterTests\obj\Debug\netcoreapp2.2\UnitConverterTests.AssemblyInfoInputs.cache
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverterTests\obj\Debug\netcoreapp2.2\UnitConverterTests.AssemblyInfo.cs
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverterTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverterTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverterTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverterTests\bin\Debug\netcoreapp2.2\UnitConverterTests.deps.json
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverterTests\bin\Debug\netcoreapp2.2\UnitConverterTests.runtimeconfig.json
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverterTests\bin\Debug\netcoreapp2.2\UnitConverterTests.runtimeconfig.dev.json
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverterTests\bin\Debug\netcoreapp2.2\UnitConverterTests.dll
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverterTests\bin\Debug\netcoreapp2.2\UnitConverterTests.pdb
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverterTests\bin\Debug\netcoreapp2.2\UnitConverter.dll
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverterTests\bin\Debug\netcoreapp2.2\UnitConverter.pdb
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverterTests\obj\Debug\netcoreapp2.2\UnitConverterTests.csproj.CopyComplete
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverterTests\obj\Debug\netcoreapp2.2\UnitConverterTests.dll
+C:\Users\patersonr\source\repos\UnitConverter\UnitConverterTests\obj\Debug\netcoreapp2.2\UnitConverterTests.pdb
